@@ -27,13 +27,13 @@ cd terai
 
 ```bash
 # Buat virtual environment
-python -m venv googleai_env
+python -m venv aienv
 
 # Aktifkan virtual environment
 # Windows:
-googleai_env\Scripts\activate
+aienv\Scripts\activate
 # Linux/macOS:
-source googleai_env/bin/activate
+source aienv/bin/activate
 ```
 
 ### 3. Install Dependencies
@@ -47,6 +47,7 @@ pip install -r requirements.txt
 ```bash
 # Export API key
 export GEMINI_API_KEY="your-api-key-here"
+export OPENAI_API_KEY="your-api-key-here"
 
 # Atau buat file .env
 cp .env.example .env
@@ -65,7 +66,13 @@ Ketik pesan Anda dan AI akan merespons. Ketik quit untuk keluar.
 
 ### 🔧 Konfigurasi
 
+**Google Gemini**
+
 Dapatkan API key gratis dari [Google AI Studio](https://ai.google.dev/gemini-api/docs?hl=id)
+
+**OpenAI**
+
+Dapatkan API key dari [OpenAI](https://platform.openai.com/api-keys) Platform
 
 ### 🤝 Kontribusi
 
