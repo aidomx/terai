@@ -61,7 +61,7 @@ Ketik pesan Anda dan AI akan merespons. Ketik quit untuk keluar.
 
 ### 🔧 Konfigurasi
 
-Dapatkan API key gratis dari Google AI Studio
+Dapatkan API key gratis dari [Google AI Studio](https://ai.google.dev/gemini-api/docs?hl=id)
 
 🤝 Kontribusi
 
@@ -69,4 +69,4 @@ Pull request dipersilakan! Untuk perubahan besar, buka issue terlebih dahulu.
 
 ### 📝 License
 
-MIT License - lihat file LICENSE untuk detailnya.
+MIT License - lihat file [LICENSE](https://github.com/aidomx/terai/blob/main/LICENSE) untuk detailnya.
