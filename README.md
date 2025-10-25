@@ -10,6 +10,10 @@ Terminal AI adalah aplikasi chat berbasis command-line yang menggunakan Google G
 - 🚀 Response streaming real-time
 - ⚙️ Konfigurasi mudah
 
+## Screenshot
+
+![Terminal AI](ss.jpg)
+
 ## 🚀 Instalasi
 
 ### 1. Clone Repository
@@ -63,7 +67,7 @@ Ketik pesan Anda dan AI akan merespons. Ketik quit untuk keluar.
 
 Dapatkan API key gratis dari [Google AI Studio](https://ai.google.dev/gemini-api/docs?hl=id)
 
-🤝 Kontribusi
+### 🤝 Kontribusi
 
 Pull request dipersilakan! Untuk perubahan besar, buka issue terlebih dahulu.
 
